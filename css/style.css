@@ -1,0 +1,20 @@
+.header-footer {
+  background-color: rgb(26, 107, 26);
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(206, 226, 218);
+}
+
+.bg-putih {
+  background-color: #f3f4f5;
+}
+
+.bg-hijau {
+  background-color: rgb(206, 226, 218);
+}
+
+section {
+  padding-top: 5rem;
+}
