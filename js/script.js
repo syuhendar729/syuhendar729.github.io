@@ -1,8 +1,11 @@
 // Play music auto
-document.addEventListener("click", musicPlay);
-function musicPlay() {
-  document.getElementById("myAudio").play();
-  // document.removeEventListener("click", musicPlay);
+let playMusik = confirm("Do you want to play music?");
+if (playMusik) {
+  document.addEventListener("click", musicPlay);
+  function musicPlay() {
+    document.getElementById("myAudio").play();
+    // document.removeEventListener("click", musicPlay);
+  }
 }
 
 // Set attribute a new tab
@@ -45,7 +48,8 @@ async function handleSubmit(event) {
     .catch((error) => {
       myAlert.classList.toggle("alert-danger");
       myAlert.classList.toggle("d-none");
-      status.innerHTML = "<b>Oops!</b> There was a problem sending your message";
+      status.innerHTML =
+        "<b>Oops!</b> There was a problem sending your message";
       btnSubmit.classList.toggle("d-none");
       btnLoading.classList.toggle("d-none");
     });
