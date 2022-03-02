@@ -107,30 +107,52 @@ const achievment = [
 	{
 		img: 'cer-node.png',
 		title: 'NodeJS',
-		desc: 'adalah platform perangkat lunak pada sisi peladen dan aplikasi jaringan. Ditulis dengan bahasa JavaScript dan dijalankan pada Windows, Mac OS X, dan Linux tanpa perubahan kode program.',
-		url: 'https://id.wikipedia.org/wiki/Node.js',
-		sumber: 'Wikipedia'
+		desc: 'Sertifikat keahlian dalam pembuatan aplikasi javascript menggunakan teknologi NodeJS yang didapatkan dari Progate Indonesia.'
 	},
 	{
 		img: 'cer-py.png',
 		title: 'Python',
-		desc: 'adalah bahasa pemrograman tujuan umum yang ditafsirkan, tingkat tinggi. Dibuat oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991, filosofi desain Python menekankan keterbacaan kode dengan penggunaan spasi putih yang signifikan.',
-		url: 'https://id.wikipedia.org/wiki/Python_(bahasa_pemrograman)',
-		sumber: 'Wikipedia'
+		desc: 'Sertifikat keahlian dalam bahasa pemrograman python yang didapatkan dari Progate Indonesia.'
 	},
 	{
-		img: 'cer-AC.png',
-		title: 'Cloud Server',
-		desc: 'adalah gabungan pemanfaatan teknologi komputer dan pengembangan berbasis Internet. Awan adalah metafora dari internet, sebagaimana awan yang sering digambarkan di diagram jaringan komputer.',
-		url: 'https://id.wikipedia.org/wiki/Komputasi_awan',
-		sumber: 'Wikipedia'
+		img: 'cer-clserver-alibaba.png',
+		title: 'Manage Cloud Server',
+		desc: 'Sertifikat keahlian dalam mengoperasikan dan mengelola cloud server (VPS) yang didapatkan dari company Alibaba.'
 	},
 	{
 		img: 'cer-rc.png',
 		title: 'Recloud',
-		desc: 'adalah kompetisi dengan sekumpulan tantangan untuk ragam layanan awan dan sertifikasi yang disediakan oleh Alibaba Cloud. Acara ini bisa diikuti oleh seluruh warga Indonesia dari mulai professional hingga mahasiswa untuk turut berkompetisi.' ,
-		url: 'https://re-cloud.id/',
-		sumber: 'Re-cloud.id'
+		desc: 'Sertifikat peserta Recloud Challanges Indonesia.'
+	},
+	{
+		img: 'cer-js-dicoding.png',
+		title: 'Javascript',
+		desc: 'Sertifikat keahlian dalam bahasa pemrograman Javascript yang didapatkan dari company Dicoding dan diakui dalam dunia industri global.',
+	},
+	{
+		img: 'cer-ai-alibaba.png',
+		title: 'AI Developer',
+		desc: 'Sertifikat AI Developer yang didapatkan dari company Alibaba.'
+	},
+	{
+		img: 'cer-backend-fcc.png',
+		title: 'Back End Developer',
+		desc: 'Sertifikat keahlian dalam pengembangan aplikasi Back End menggunakan teknologi Nodejs dan MongoDB yang didapatkan dari Company Freecodecamp dan diakui dalam dunia industri internasional seperti Google, Microsoft, Amazon, dan lainnya.'
+	},
+	{
+		img: 'cer-clserver-codepolitan.png',
+		title: 'Setting up Server',
+		desc: 'Sertifikat setting up server dari company Codepolitan.'
+	},
+	{
+		img: 'cer-dspython-dqlab.png',
+		title: 'Python for Data Science',
+		desc: 'Sertifikat penerapan bahasa python dalam teknologi Sains Data'
+	},
+	{
+		img: 'cer-dsR-dqlab.png',
+		title: 'Python for Data Science',
+		desc: 'Sertifikat penerapan bahasa R dalam teknologi Sains Data'
 	}
 ]
 

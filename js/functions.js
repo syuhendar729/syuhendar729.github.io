@@ -32,19 +32,16 @@ function showAchievment(data){
           <div class="col-md-4">
             <div class="card" style="width: 20rem">
               <img
-                src="img/${data.img}"
+                src="img/cr/${data.img}"
                 class="card-img-top"
                 alt="Certificate"
               />
               <div class="card-body">
                 <p class="card-text">
                   <b>${data.title}</b> 
+				  <br>
 				  ${data.desc}
-				  </p>
-                <p>
-                  Sumber :
-                  <a href="${data.url}">${data.sumber}</a>
-                </p>
+				</p>
               </div>
             </div>
           </div>
