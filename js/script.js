@@ -70,28 +70,28 @@ const project = [
 		title: 'Simple Blog',
 		img: 'html-css.png',
 		desc: 'This is a simple blog that contains only writing with css and html',
-		url: 'http://47.254.194.164/',
-		urlSc: 'https://github.com/syuhendar729/'
+		url: '#',
+		urlSc: '#'
 	},
 	{
 		title: 'Simple Crud',
 		img: 'ci4app.png',
 		desc: 'This is my simple CRUD project with the help of CodeIgniter4 framework',
-		url: 'http://47.254.194.164:81/',
+		url: '#',
 		urlSc: 'https://github.com/syuhendar729/ci4app'
 	},
 	{
 		title: 'System Login 1',
 		img: 'ci4login.png',
 		desc: 'This is a simple login system and forgot password fiture with CodeIgniter4 framework',
-		url: 'https://ci4appsr.epizy.com/',
+		url: '#',
 		urlSc: 'https://github.com/syuhendar729/ci4login'
 	},
 	{
 		title: 'Simple Login 2',
 		img: 'ci4applogin.png',
 		desc: 'It is a simple login system and add CRUD features with the help of the codeigniter4 framework',
-		url: 'http://47.254.194.164:83/',
+		url: '#',
 		urlSc: 'https://github.com/syuhendar729/ci4applogin'
 	},
 	{
@@ -100,6 +100,13 @@ const project = [
 		desc: `It's a my blog. Build with nextjs and tailwind. Hosting in <a href="https://vercel.com">Vercel</a>`,
 		url: 'https://syuhendar729.vercel.app/',
 		urlSc: 'https://github.com/syuhendar729/nextjs-myblog'
+	},
+	{
+		title: 'Todo App',
+		img: 'todoapp.png',
+		desc: `It's my todo list application. Build with NodeJS and Hosting in Heroku.`,
+		url: 'https://bljr-nodejs.herokuapp.com/',
+		urlSc: 'https://github.com/syuhendar729/nodejs'
 	}
 ]
 
