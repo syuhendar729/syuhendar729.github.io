@@ -12,7 +12,7 @@ function showProject(data){
                 <p class="card-text">
 					${data.desc}
                 </p>
-                <a href="${data.url}" class="btn btn-success"
+                <a target='_blank' href="${data.url}" class="btn btn-success"
                   >View project <i class="bi bi-arrow-right-circle-fill"></i
                 ></a>
                 <br /><br />

@@ -107,6 +107,13 @@ const project = [
 		desc: `It's my todo list application. Build with NodeJS and Hosting in Heroku.`,
 		url: 'https://bljr-nodejs.herokuapp.com/',
 		urlSc: 'https://github.com/syuhendar729/nodejs'
+	},
+	{
+		title: "Table Periodik",
+		img: 'table-periodik.png',
+		desc: `It's my application which shows the periodic table`,
+		url: 'https://syuhendar729.github.io/table-periodik',
+		urlSc: 'https://github.com/syuhendar729/table-periodik'
 	}
 ]
 
