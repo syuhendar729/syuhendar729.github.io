@@ -114,7 +114,21 @@ const project = [
 		desc: `It's my application which shows the periodic table`,
 		url: 'https://syuhendar729.github.io/table-periodik',
 		urlSc: 'https://github.com/syuhendar729/table-periodik'
-	}
+	},
+	{
+		title: "Event Sikrab Outbound PIK-R",
+		img: 'sikrab-pikr.png',
+		desc: `Website acara Sikrab Outbound PIK-R ITERA. Dibangun dengan html, css, dan bootstrap sebagai frameworknya.`,
+		url: 'https://outboundpikr2023.netlify.app/',
+		urlSc: 'https://github.com/syuhendar729/web-sikrab-pikr'
+	},
+	{
+		title: "Eid Mubarok Site",
+		img: 'eid.png',
+		desc: `Website Eid Mubarok, sebagai ucapan mohon maaf lahir dan batin. Dibangun dengan html, css, dan JavaScript.`,
+		url: 'https://syuhendar-eid.netlify.app/',
+		urlSc: 'https://github.com/syuhendar729/myeid'
+	},
 ]
 
 const achievment = [
