@@ -167,7 +167,12 @@ const achievment = [
 		img: 'cer-dsR-dqlab.png',
 		title: 'Python for Data Science',
 		desc: 'Sertifikat penerapan bahasa R dalam teknologi Sains Data'
-	}
+	},
+	{
+		img: 'cer-gemastik15-rpl.png',
+		title: 'Gemastik VI Software Developer',
+		desc: 'Sertifikat peserta lomba Gemastik 15 bidang Pengembangan Perangkat Lunak'
+	},
 ]
 
 updateUI(project, 'project-content', showProject)
