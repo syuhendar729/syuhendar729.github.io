@@ -62,73 +62,81 @@ const project = [
 	{
 		title: 'Portfolio',
 		img: 'portfolio.png',
-		desc: 'This is a portfolio website that tells about me',
+		desc: 'Website portfolio. Dibangun dengan HTML, Bootstrap, dan JavaScript.',
 		url: '#',
 		urlSc: 'https://github.com/syuhendar729/syuhendar729.github.io',
 	},
 	{
 		title: 'Simple Blog',
 		img: 'html-css.png',
-		desc: 'This is a simple blog that contains only writing with css and html',
+		desc: 'Website blog sederhana. Dibangun dengan HTML dan CSS.',
 		url: '#',
 		urlSc: '#'
 	},
 	{
-		title: 'Simple Crud',
+		title: 'CodeIgniter CRUD',
 		img: 'ci4app.png',
-		desc: 'This is my simple CRUD project with the help of CodeIgniter4 framework',
+		desc: 'Website CRUD sederhana. Dibangun dengan CodeIgniter4.',
 		url: '#',
 		urlSc: 'https://github.com/syuhendar729/ci4app'
 	},
 	{
-		title: 'System Login 1',
+		title: 'System Login',
 		img: 'ci4login.png',
-		desc: 'This is a simple login system and forgot password fiture with CodeIgniter4 framework',
+		desc: 'Website login dan fitur forgot password. Dibangun dengan CodeIgniter4.',
 		url: '#',
 		urlSc: 'https://github.com/syuhendar729/ci4login'
 	},
 	{
-		title: 'Simple Login 2',
+		title: 'CodeIgniter Web App',
 		img: 'ci4applogin.png',
-		desc: 'It is a simple login system and add CRUD features with the help of the codeigniter4 framework',
+		desc: 'Website CRUD dengan sistem login. Dibangun dengan CodeIgniter4.',
 		url: '#',
 		urlSc: 'https://github.com/syuhendar729/ci4applogin'
 	},
 	{
-		title: 'My Blog',
-		img: 'blog.png',
-		desc: `It's a my blog. Build with nextjs and tailwind. Hosting in <a href="https://vercel.com">Vercel</a>`,
-		url: 'https://syuhendar729.vercel.app/',
-		urlSc: 'https://github.com/syuhendar729/nextjs-myblog'
-	},
-	{
 		title: 'Todo App',
 		img: 'todoapp.png',
-		desc: `It's my todo list application. Build with NodeJS and Hosting in Heroku.`,
+		desc: `Website TodoAPP. Dibangun dengan Nodejs, Express, dan MySql sebagai database.`,
 		url: 'https://bljr-nodejs.herokuapp.com/',
 		urlSc: 'https://github.com/syuhendar729/nodejs'
 	},
 	{
 		title: "Table Periodik",
 		img: 'table-periodik.png',
-		desc: `It's my application which shows the periodic table`,
+		desc: `Website Tabel Periodik. Dibangun dengan HTML, Bootstrap, dan JavaScript.`,
 		url: 'https://syuhendar729.github.io/table-periodik',
 		urlSc: 'https://github.com/syuhendar729/table-periodik'
 	},
 	{
 		title: "Event Sikrab Outbound PIK-R",
-		img: 'sikrab-pikr.png',
-		desc: `Website acara Sikrab Outbound PIK-R ITERA. Dibangun dengan html, css, dan bootstrap sebagai frameworknya.`,
+		img: 'sikrab-pikr.jpg',
+		desc: `Website acara Sikrab Outbound PIK-R ITERA. Dibangun dengan HTML, CSS, dan Bootstrap.`,
 		url: 'https://outboundpikr2023.netlify.app/',
 		urlSc: 'https://github.com/syuhendar729/web-sikrab-pikr'
 	},
 	{
 		title: "Eid Mubarok Site",
 		img: 'eid.png',
-		desc: `Website Eid Mubarok, sebagai ucapan mohon maaf lahir dan batin. Dibangun dengan html, css, dan JavaScript.`,
+		desc: `Website Eid Mubarok, sebagai ucapan mohon maaf lahir dan batin. Dibangun dengan HTML, CSS, dan JavaScript.`,
 		url: 'https://syuhendar-eid.netlify.app/',
 		urlSc: 'https://github.com/syuhendar729/myeid'
 	},
+	{
+		title: "My Rust Website",
+		img: 'my-rust-web.png',
+		desc: `Website ini sebagian besar berisi konten blog pribadi. Dibangun dengan bahasa pemrograman Rust dengan Rustyink sebagai Static Site Generator.`,
+		url: 'https://callmedar.github.io/',
+		urlSc: 'https://github.com/callmedar/callmedar.github.io'
+	},
+	{
+		title: "MongoDB WebContact",
+		img: 'nodejs-webcontact.png',
+		desc: `Website ini adalah pengelolaan data contact sederhana. Dibangun dengan Nodejs, Express, dan MongoDB sebagai database.`,
+		url: 'https://callmedar.github.io/',
+		urlSc: 'https://github.com/callmedar/callmedar.github.io'
+	},
+
 ]
 
 const achievment = [
