@@ -1,12 +1,12 @@
 // Play music auto
-let playMusik = confirm("Do you want to play music?");
-if (playMusik) {
-  document.addEventListener("click", musicPlay);
-  function musicPlay() {
-    document.getElementById("myAudio").play();
-    // document.removeEventListener("click", musicPlay);
-  }
-}
+// let playMusik = confirm("Do you want to play music?");
+// if (playMusik) {
+//   document.addEventListener("click", musicPlay);
+//   function musicPlay() {
+//     document.getElementById("myAudio").play();
+//     // document.removeEventListener("click", musicPlay);
+//   }
+// }
 
 // Set attribute a new tab
 $("#achievment a").attr("target", "_blank");
@@ -133,10 +133,23 @@ const project = [
 		title: "MongoDB WebContact",
 		img: 'nodejs-webcontact.png',
 		desc: `Website ini adalah pengelolaan data contact sederhana. Dibangun dengan Nodejs, Express, dan MongoDB sebagai database.`,
+		url: 'https://project-coba-nodejs-sr.cyclic.app/',
+		urlSc: 'https://github.com/syuhendar729/nodejs-web-contact'
+	},
+	{
+		title: "Website PIK-R Sejahtera",
+		img: 'web-pikr.jpg',
+		desc: `Website ini adalah landing page sebuah organisasi PIK-R Sejahtera ITERA yang berisi halaman beranda, galery, kontak, dan berita.`,
 		url: 'https://callmedar.github.io/',
 		urlSc: 'https://github.com/callmedar/callmedar.github.io'
 	},
-
+	{
+		title: "Goncengan",
+		img: 'goncengan.jpg',
+		desc: `Aplikasi ini adalah aplikasi Ojek Online Mahasiswa IPB dan dikembangkan dalam event bussiness P2MW.`,
+		url: 'https://play.google.com/store/apps/details?id=com.goncengan.goncengan&pli=1',
+		urlSc: 'https://github.com/syuhendar729/goncengan-backend'
+	},
 ]
 
 const achievment = [
@@ -194,6 +207,21 @@ const achievment = [
 		img: 'cer-gemastik15-rpl.png',
 		title: 'Gemastik VI Software Developer',
 		desc: 'Sertifikat peserta lomba Gemastik 15 bidang Pengembangan Perangkat Lunak'
+	},
+	{
+		img: 'cer-llf.jpg',
+		title: 'Juara Lampung Leadership Forum',
+		desc: 'Sertifikat Juara Favorit Gagasan Lampung Leadership Forum dengan judul "Penerapan Sistem Transportasi Cerdas di Provinsi Lampung".'
+	},
+	{
+		img: 'cer-seminar-pers.jpg',
+		title: 'Seminar Lembaga Pers',
+		desc: 'Sertifikat peserta pelatihan desain dan konten dalam acara dies natalis Lembaga Pers'
+	},
+	{
+		img: 'cer-expo.jpg',
+		title: 'Expo University',
+		desc: 'Sertifikat pemateri jurusan Teknik Informatika dalam acara Expo University MA'
 	},
 ]
 
